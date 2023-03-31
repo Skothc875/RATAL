@@ -1,4 +1,4 @@
-TeleServer version Beta 0.1 by Skothc875
+TelegaServer version Beta 0.1 by Skothc875
 documentation for TS Beta 0.1
 
 RU документация
